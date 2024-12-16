@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="2a001917-12aa-45e8-a1e9-5cd93ce649b7">Холодильники-морозильники</category>
+    </categories>
+    <offers>
+      <offer id="122321" available="true">
+        <name>Добавить фото 55</name>
+        <url>http://www.example.com/product/122321</url>
+        <price>35420</price>
+        <model>M 8049</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://drive.google.com/uc?id=1elO5T-kNUW_80b9vEcWWFfhI_AuE3M2M</picture>
+        <picture>nan</picture>
+        <param name="Вещь">Она</param>
+        <param name="Объем (л)">2</param>
+        <param name="Энергопотребление (класс)">3</param>
+        <param name="Количество полок/ящиков">1</param>
+        <param name="Уровень шума (дБ)">6</param>
+        <param name="Дополнительные функции">1</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
