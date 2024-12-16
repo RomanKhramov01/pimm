@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="2a001917-12aa-45e8-a1e9-5cd93ce649b7">Холодильники-морозильники</category>
+    </categories>
+    <offers>
+      <offer id="481" available="true">
+        <name>Фото красвое</name>
+        <url>http://www.example.com/product/481</url>
+        <price>35420</price>
+        <model>M 8049</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>2a001917-12aa-45e8-a1e9-5cd93ce649b7</categoryId>
+        <picture>https://cloud.nambagroup.net/webapi/entry.cgi/photo_5226808645151481668_y.jpg?api=SYNO.SynologyDrive.Files&amp;method=download&amp;version=2&amp;files=%5B%22id%3A857109920858813671%22%5D&amp;force_download=false&amp;_dc=1734341515016&amp;sharing_token=FNmRXw1n5dLO4O2W.dQfDxaZhf4AI9FOfk_nWTpI.48rgZrM2UIbXbxJBT20c0MyD3d120QEkhQA3tHSTRBr9Xpcczop547mGL3.jIefCaQyPgIcrPP6x285axAfmuBY_UT2RsBdcnc5YBDFh4WFJiblPalAeTixIdwBkYCNFDF8yAdy4WyPqj3FO1OHcN6d3_Xd8gvdsczoJ.usg3g4EBWaHiA7keUnsvVeBWCroiWcxTJGLWVJqiHm</picture>
+        <picture>nan</picture>
+        <param name="Вещь">Она</param>
+        <param name="Объем (л)">2</param>
+        <param name="Энергопотребление (класс)">3</param>
+        <param name="Количество полок/ящиков">1</param>
+        <param name="Уровень шума (дБ)">6</param>
+        <param name="Дополнительные функции">1</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
