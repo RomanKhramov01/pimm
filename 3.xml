@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="nan">Smartwatch</category>
+    </categories>
+    <offers>
+      <offer id="1" available="true">
+        <name>Watch Ultra 2023 Titan</name>
+        <url>http://www.example.com/product/1</url>
+        <price>710</price>
+        <model>Watch Ultra 2023 Titan</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/e1b9/22726-869MT5J3ref_VW_PF+watch-49-titanium-ultra2_VW_PF+watch-face-49-alpine-ultra2_VW_PF.jpeg</picture>
+        <picture>https://images.biggeek.ru/1/435/dd04/22726-551MT5J3ref_VW_34FR+watch-49-titanium-ultra2_VW_34FR+watch-face-49-alpine-ultra2_VW_34FR.jpeg</picture>
+        <param name="Тип">Titan</param>
+        <param name="Объем (л)">-</param>
+        <param name="Энергопотребление (класс)">-</param>
+        <param name="Количество полок/ящиков">-</param>
+        <param name="Уровень шума (дБ)">-</param>
+        <param name="Дополнительные функции">GPS, Water-resistant</param>
+      </offer>
+      <offer id="2" available="true">
+        <name>Watch Ultra 2024 Black</name>
+        <url>http://www.example.com/product/2</url>
+        <price>760</price>
+        <model>Watch Ultra 2024 Black</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/1bc0/28430-206MXKF3ref_VW_PF+watch-case-49-titanium-black-ultra2_VW_PF+watch-face-49-milanese-ultra2_VW_PF.jpeg</picture>
+        <picture>[Image]</picture>
+        <param name="Тип">Black</param>
+        <param name="Объем (л)">-</param>
+        <param name="Энергопотребление (класс)">-</param>
+        <param name="Количество полок/ящиков">-</param>
+        <param name="Уровень шума (дБ)">-</param>
+        <param name="Дополнительные функции">GPS, Water-resistant</param>
+      </offer>
+      <offer id="3" available="true">
+        <name>Watch Ultra 2024 Titan</name>
+        <url>http://www.example.com/product/3</url>
+        <price>740</price>
+        <model>Watch Ultra 2024 Titan</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/da95/28426-496MYQ53ref_VW_PF+watch-case-49-titanium-black-ultra2_VW_PF+watch-face-49-trail-ultra2_VW_PF.jpeg</picture>
+        <picture>[Image]</picture>
+        <param name="Тип">Titan</param>
+        <param name="Объем (л)">-</param>
+        <param name="Энергопотребление (класс)">-</param>
+        <param name="Количество полок/ящиков">-</param>
+        <param name="Уровень шума (дБ)">-</param>
+        <param name="Дополнительные функции">GPS, Water-resistant</param>
+      </offer>
+      <offer id="4" available="true">
+        <name>Watch Ultra 2024 Milanese</name>
+        <url>http://www.example.com/product/4</url>
+        <price>960</price>
+        <model>Watch Ultra 2024 Milanese</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/cbfb/28431-508MXKC3ref_VW_PF+watch-case-49-titanium-natural-ultra2_VW_PF+watch-face-49-milanese-ultra2_VW_PF.jpeg</picture>
+        <picture>[Image]</picture>
+        <param name="Тип">Milanese Steel</param>
+        <param name="Объем (л)">-</param>
+        <param name="Энергопотребление (класс)">-</param>
+        <param name="Количество полок/ящиков">-</param>
+        <param name="Уровень шума (дБ)">-</param>
+        <param name="Дополнительные функции">GPS, Water-resistant, Milanese Band</param>
+      </offer>
+      <offer id="5" available="true">
+        <name>SE 40 mm</name>
+        <url>http://www.example.com/product/5</url>
+        <price>210</price>
+        <model>SE 40 mm</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/6bde/29472-99029472.jpeg</picture>
+        <picture>[Image]</picture>
+        <param name="Тип">SE (40mm)</param>
+        <param name="Объем (л)">-</param>
+        <param name="Энергопотребление (класс)">-</param>
+        <param name="Количество полок/ящиков">-</param>
+        <param name="Уровень шума (дБ)">-</param>
+        <param name="Дополнительные функции">-</param>
+      </offer>
+      <offer id="6" available="true">
+        <name>SE 44 mm</name>
+        <url>http://www.example.com/product/6</url>
+        <price>240</price>
+        <model>SE 44 mm</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/62cd/28233-60028233.jpg</picture>
+        <picture>[Image]</picture>
+        <param name="Тип">SE (44mm)</param>
+        <param name="Объем (л)">-</param>
+        <param name="Энергопотребление (класс)">-</param>
+        <param name="Количество полок/ящиков">-</param>
+        <param name="Уровень шума (дБ)">-</param>
+        <param name="Дополнительные функции">-</param>
+      </offer>
+      <offer id="7" available="true">
+        <name>10 42mm</name>
+        <url>http://www.example.com/product/7</url>
+        <price>375</price>
+        <model>10 42mm</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/6009/29066-847MXLN3ref_SR_S10_VW_PF+watch-case-42-aluminum-rosegold-nc-s10_VW_PF+watch-face-42-aluminum-rosegold-s10_VW_PF.jpeg</picture>
+        <picture>[Image]</picture>
+        <param name="Тип">10 (42mm)</param>
+        <param name="Объем (л)">-</param>
+        <param name="Энергопотребление (класс)">-</param>
+        <param name="Количество полок/ящиков">-</param>
+        <param name="Уровень шума (дБ)">-</param>
+        <param name="Дополнительные функции">-</param>
+      </offer>
+      <offer id="8" available="true">
+        <name>10 46mm</name>
+        <url>http://www.example.com/product/8</url>
+        <price>415</price>
+        <model>10 46mm</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/6394/29099-84129099.jpeg</picture>
+        <picture>[Image]</picture>
+        <param name="Тип">10 (46mm)</param>
+        <param name="Объем (л)">-</param>
+        <param name="Энергопотребление (класс)">-</param>
+        <param name="Количество полок/ящиков">-</param>
+        <param name="Уровень шума (дБ)">-</param>
+        <param name="Дополнительные функции">-</param>
+      </offer>
+      <offer id="9" available="true">
+        <name>10 42mm Milanese Steel</name>
+        <url>http://www.example.com/product/9</url>
+        <price>890</price>
+        <model>10 42mm Milanese Steel</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/0386/18648-22618648.jpg</picture>
+        <picture>[Image]</picture>
+        <param name="Тип">10 (42mm) Milanese</param>
+        <param name="Объем (л)">-</param>
+        <param name="Энергопотребление (класс)">-</param>
+        <param name="Количество полок/ящиков">-</param>
+        <param name="Уровень шума (дБ)">-</param>
+        <param name="Дополнительные функции">Milanese Band</param>
+      </offer>
+      <offer id="10" available="true">
+        <name>10 46mm Milanese Steel</name>
+        <url>http://www.example.com/product/10</url>
+        <price>920</price>
+        <model>10 46mm Milanese Steel</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/c987/13486-45244MM-STRVBLK-800_800.jpg</picture>
+        <picture>[Image]</picture>
+        <param name="Тип">10 (46mm) Milanese</param>
+        <param name="Объем (л)">-</param>
+        <param name="Энергопотребление (класс)">-</param>
+        <param name="Количество полок/ящиков">nan</param>
+        <param name="Уровень шума (дБ)">nan</param>
+        <param name="Дополнительные функции">nan</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
