@@ -1,0 +1,763 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="nan">Smartwatch</category>
+    </categories>
+    <offers>
+      <offer id="EAW1612_00010" available="true">
+        <name>Watch Ultra 2023 Titan</name>
+        <url>http://www.example.com/product/EAW1612_00010</url>
+        <price>710</price>
+        <model>Watch Ultra 2023 Titan</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/e1b9/22726-869MT5J3ref_VW_PF+watch-49-titanium-ultra2_VW_PF+watch-face-49-alpine-ultra2_VW_PF.jpeg</picture>
+        <picture>https://images.biggeek.ru/1/435/dd04/22726-551MT5J3ref_VW_34FR+watch-49-titanium-ultra2_VW_34FR+watch-face-49-alpine-ultra2_VW_34FR.jpeg</picture>
+        <param name="Тип">Titan</param>
+      </offer>
+      <offer id="EAW1612_00011" available="true">
+        <name>Watch Ultra 2024 Black</name>
+        <url>http://www.example.com/product/EAW1612_00011</url>
+        <price>760</price>
+        <model>Watch Ultra 2024 Black</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/1bc0/28430-206MXKF3ref_VW_PF+watch-case-49-titanium-black-ultra2_VW_PF+watch-face-49-milanese-ultra2_VW_PF.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип">Black</param>
+      </offer>
+      <offer id="EAW1612_00012" available="true">
+        <name>Watch Ultra 2024 Titan</name>
+        <url>http://www.example.com/product/EAW1612_00012</url>
+        <price>740</price>
+        <model>Watch Ultra 2024 Titan</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/da95/28426-496MYQ53ref_VW_PF+watch-case-49-titanium-black-ultra2_VW_PF+watch-face-49-trail-ultra2_VW_PF.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип">Titan</param>
+      </offer>
+      <offer id="EAW1612_00013" available="true">
+        <name>Watch Ultra 2024 Milanese</name>
+        <url>http://www.example.com/product/EAW1612_00013</url>
+        <price>960</price>
+        <model>Watch Ultra 2024 Milanese</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/cbfb/28431-508MXKC3ref_VW_PF+watch-case-49-titanium-natural-ultra2_VW_PF+watch-face-49-milanese-ultra2_VW_PF.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип">Milanese Steel</param>
+      </offer>
+      <offer id="EAW1612_00014" available="true">
+        <name>SE 40 mm</name>
+        <url>http://www.example.com/product/EAW1612_00014</url>
+        <price>210</price>
+        <model>SE 40 mm</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/6bde/29472-99029472.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип">SE (40mm)</param>
+      </offer>
+      <offer id="EAW1612_00015" available="true">
+        <name>SE 44 mm</name>
+        <url>http://www.example.com/product/EAW1612_00015</url>
+        <price>240</price>
+        <model>SE 44 mm</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/62cd/28233-60028233.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип">SE (44mm)</param>
+      </offer>
+      <offer id="EAW1612_00016" available="true">
+        <name>10 42mm</name>
+        <url>http://www.example.com/product/EAW1612_00016</url>
+        <price>375</price>
+        <model>10 42mm</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/6009/29066-847MXLN3ref_SR_S10_VW_PF+watch-case-42-aluminum-rosegold-nc-s10_VW_PF+watch-face-42-aluminum-rosegold-s10_VW_PF.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип">10 (42mm)</param>
+      </offer>
+      <offer id="EAW1612_00017" available="true">
+        <name>10 46mm</name>
+        <url>http://www.example.com/product/EAW1612_00017</url>
+        <price>415</price>
+        <model>10 46mm</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/6394/29099-84129099.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип">10 (46mm)</param>
+      </offer>
+      <offer id="EAW1612_00018" available="true">
+        <name>10 42mm Milanese Steel</name>
+        <url>http://www.example.com/product/EAW1612_00018</url>
+        <price>890</price>
+        <model>10 42mm Milanese Steel</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/0386/18648-22618648.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип">10 (42mm) Milanese</param>
+      </offer>
+      <offer id="EAW1612_00019" available="true">
+        <name>10 46mm Milanese Steel</name>
+        <url>http://www.example.com/product/EAW1612_00019</url>
+        <price>920</price>
+        <model>10 46mm Milanese Steel</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/c987/13486-45244MM-STRVBLK-800_800.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип">10 (46mm) Milanese</param>
+      </offer>
+      <offer id="AP1612_00020" available="true">
+        <name>AirPods 2/1</name>
+        <url>http://www.example.com/product/AP1612_00020</url>
+        <price>95</price>
+        <model>AirPods 2/1</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://cdn1.ozone.ru/s3/multimedia-3/6852700191.jpg</picture>
+        <picture>nan</picture>
+        <param name="Тип">Classic</param>
+      </offer>
+      <offer id="AP1612_00021" available="true">
+        <name>AirPods Pro 2 Type-C</name>
+        <url>http://www.example.com/product/AP1612_00021</url>
+        <price>200</price>
+        <model>AirPods Pro 2 Type-C</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://liderofficial.com/wp-content/uploads/2024/08/166420196461663_full.png</picture>
+        <picture>nan</picture>
+        <param name="Тип">Pro Type-C</param>
+      </offer>
+      <offer id="AP1612_00022" available="true">
+        <name>AirPods 3</name>
+        <url>http://www.example.com/product/AP1612_00022</url>
+        <price>125</price>
+        <model>AirPods 3</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-goods_pic/6279377/hat94234ee9d2e9f27690b8b531e57134a2/600x600</picture>
+        <picture>nan</picture>
+        <param name="Тип">Classic</param>
+      </offer>
+      <offer id="AP1612_00023" available="true">
+        <name>AirPods 4</name>
+        <url>http://www.example.com/product/AP1612_00023</url>
+        <price>135</price>
+        <model>AirPods 4</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/airpods-4-hero-select-202409?wid=976&amp;hei=916&amp;fmt=jpeg&amp;qlt=90&amp; .v=1725502960502</picture>
+        <picture>nan</picture>
+        <param name="Тип">Classic</param>
+      </offer>
+      <offer id="AP1612_00024" available="true">
+        <name>AirPods 4 ANC</name>
+        <url>http://www.example.com/product/AP1612_00024</url>
+        <price>185</price>
+        <model>AirPods 4 ANC</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-goods_pic/13530448/hat17b228f4fe886602c63f2f6a3061ad57/600x600</picture>
+        <picture>nan</picture>
+        <param name="Тип">Classic</param>
+      </offer>
+      <offer id="AP1612_00025" available="true">
+        <name>AirPods Max</name>
+        <url>http://www.example.com/product/AP1612_00025</url>
+        <price>440</price>
+        <model>AirPods Max</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4973279/img_id8670926649361529788.png/orig</picture>
+        <picture>nan</picture>
+        <param name="Тип">Max</param>
+      </offer>
+      <offer id="AP1612_00026" available="true">
+        <name>AirPods Max 2024</name>
+        <url>http://www.example.com/product/AP1612_00026</url>
+        <price>550</price>
+        <model>AirPods Max 2024</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://quke.ru/resize/100x100/UserFiles/Landing/products/139913_photos_0_3527010421.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип">Max 2024</param>
+      </offer>
+      <offer id="AP1612_00027" available="true">
+        <name>Pencil 1</name>
+        <url>http://www.example.com/product/AP1612_00027</url>
+        <price>80</price>
+        <model>Pencil 1</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://images.biggeek.ru/1/435/748f/1922-8111922-278MK0C2.jpeg</picture>
+        <picture>nan</picture>
+        <param name="Тип">Pencil 1</param>
+      </offer>
+      <offer id="AP1612_00028" available="true">
+        <name>Pencil USB-C</name>
+        <url>http://www.example.com/product/AP1612_00028</url>
+        <price>90</price>
+        <model>Pencil USB-C</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://object.pscloud.io/cms/cms/Uploads/image_U1B7Qw.png</picture>
+        <picture>nan</picture>
+        <param name="Тип">Pencil USB-C</param>
+      </offer>
+      <offer id="AP1612_00029" available="true">
+        <name>Pencil 2</name>
+        <url>http://www.example.com/product/AP1612_00029</url>
+        <price>100</price>
+        <model>Pencil 2</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MU8F2?wid=1144&amp;hei=1144&amp;fmt=jpeg&amp;qlt=90&amp;.v=1540596407165</picture>
+        <picture>nan</picture>
+        <param name="Тип">Pencil 2</param>
+      </offer>
+      <offer id="AP1612_00030" available="true">
+        <name>Pencil Pro</name>
+        <url>http://www.example.com/product/AP1612_00030</url>
+        <price>120</price>
+        <model>Pencil Pro</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://cdsassets.apple.com/live/7WUAS350/images/tech-specs/ipad_apple_pencil.png</picture>
+        <picture>nan</picture>
+        <param name="Тип">Pencil Pro</param>
+      </offer>
+      <offer id="AP1612_00031" available="true">
+        <name>Magic Mouse 3 (White)</name>
+        <url>http://www.example.com/product/AP1612_00031</url>
+        <price>90</price>
+        <model>Magic Mouse 3 (White)</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-goods_pic/12728711/hat5af04e7c519e6d2d47bf546303258d81/600x600</picture>
+        <picture>nan</picture>
+        <param name="Тип">Magic Mouse 3</param>
+      </offer>
+      <offer id="AP1612_00032" available="true">
+        <name>Magic Mouse 3 (Black)</name>
+        <url>http://www.example.com/product/AP1612_00032</url>
+        <price>100</price>
+        <model>Magic Mouse 3 (Black)</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-goods_pic/12728711/hat64ffa11377fbf19b0ff0f34645a25f92/600x600</picture>
+        <picture>nan</picture>
+        <param name="Тип">Magic Mouse 3</param>
+      </offer>
+      <offer id="КНМ1612_0001" available="true">
+        <name>MacBook Air 13.3 M1 8/256 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0001</url>
+        <price>700</price>
+        <model>MacBook AI</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-goods_pic/11451625/hatc6ecfea1d48e5d46a7543d69ec8df604/600x600</picture>
+        <picture>nan</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0002" available="true">
+        <name>MacBook Air 13.6 M2 8/256 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0002</url>
+        <price>920</price>
+        <model>MacBook AI</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://vlegko.ru/upload/promo/apple-macbook-air-m2/design.jpg?1</picture>
+        <picture>https://avatars.mds.yandex.net/get-goods_pic/10192862/hatf9d34422fb88ec5fe0401b61e70f9b11/600x600</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0003" available="true">
+        <name>MacBook Air 13.6 M3 8/256 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0003</url>
+        <price>104</price>
+        <model>MacBook AI</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-goods_pic/9860605/hat00944412bedc2a49a9ea0cd20bf73ce4/600x600</picture>
+        <picture>https://avatars.mds.yandex.net/get-goods_pic/14602377/hat0d5e0910c81eb54c9c8d8485c16414c7/600x600</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0004" available="true">
+        <name>MacBook Air 13.6 M3 8/512 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0004</url>
+        <price>1240</price>
+        <model>MacBook AI</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://static.cdek.shopping/images/shopping/708aceaaf8e245d588a838aae57f74a8.jpg</picture>
+        <picture>https://static.cdek.shopping/images/shopping/c7ca295237c349ddad73b0732135dc9b.jpg</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0005" available="true">
+        <name>MacBook Air 13.6 M3 16/256 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0005</url>
+        <price>1170</price>
+        <model>MacBook AI</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://static.cdek.shopping/images/shopping/f778a22c2bf44b68952dc147d3bdfeda.jpg</picture>
+        <picture>https://static.cdek.shopping/images/shopping/d3c3eb7ab3af4c6d94cf7274cb0a028c.jpg</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0006" available="true">
+        <name>MacBook Air 13.6 M3 16/512 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0006</url>
+        <price>1400</price>
+        <model>MacBook AI</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://static.cdek.shopping/images/shopping/dc57321f607a4cde9b064381fa751425.jpg</picture>
+        <picture>https://static.cdek.shopping/images/shopping/ba314ac405b94ad0a01e3664f82922c8.jpg</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0007" available="true">
+        <name>MacBook Air 15.2 M3 8/256 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0007</url>
+        <price>1240</price>
+        <model>MacBook AI</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://static.cdek.shopping/images/shopping/dc57321f607a4cde9b064381fa751425.jpg</picture>
+        <picture>https://static.cdek.shopping/images/shopping/ba314ac405b94ad0a01e3664f82922c8.jpg</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0008" available="true">
+        <name>MacBook Air 15.2 M3 8/512 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0008</url>
+        <price>1240</price>
+        <model>MacBook AI</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://static.cdek.shopping/images/shopping/dc57321f607a4cde9b064381fa751425.jpg</picture>
+        <picture>https://static.cdek.shopping/images/shopping/ba314ac405b94ad0a01e3664f82922c8.jpg</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0009" available="true">
+        <name>MacBook Air 15.2 M3 16/256 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0009</url>
+        <price>1340</price>
+        <model>MacBook AI</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://static.cdek.shopping/images/shopping/dc57321f607a4cde9b064381fa751425.jpg</picture>
+        <picture>https://static.cdek.shopping/images/shopping/ba314ac405b94ad0a01e3664f82922c8.jpg</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0010" available="true">
+        <name>Mac Pro M3 14 8/512 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0010</url>
+        <price>1400</price>
+        <model>Mac Pro</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://static.cdek.shopping/images/shopping/74e95fd96f2c4a7b86bef412ead6c57a.jpg</picture>
+        <picture>https://static.cdek.shopping/images/shopping/f2f5fce313554d33bcbc51f1775014a0.jpg</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0011" available="true">
+        <name>Mac Pro M4 24/512 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0011</url>
+        <price>2100</price>
+        <model>Mac Pro</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://static.cdek.shopping/images/shopping/41fc4a6fc743422e98317037901c8d6a.jpg</picture>
+        <picture>https://static.cdek.shopping/images/shopping/db8411a0e22d4f42bc226f09daa327d5.jpg</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0012" available="true">
+        <name>iPad 10 64 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0012</url>
+        <price>370</price>
+        <model>iPad</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://static.cdek.shopping/images/shopping/beda2dac47344d4bb90d9244b9ed2272.jpg</picture>
+        <picture>https://static.cdek.shopping/images/shopping/689d1684033e49e7a3eafda2b7be4771.jpg</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0013" available="true">
+        <name>iPad МИНИ 7 128 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0013</url>
+        <price>485</price>
+        <model>iPad</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://static.cdek.shopping/images/shopping/f63cd2c84c48401cb167e7b341f6ead2.jpg</picture>
+        <picture>https://static.cdek.shopping/images/shopping/3e248d1e39014e369c3c85fc016085d6.jpg</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0014" available="true">
+        <name>iPad Air 6 128 ГБ Wi-Fi</name>
+        <url>http://www.example.com/product/КНМ1612_0014</url>
+        <price>600</price>
+        <model>iPad</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/11735758/2a000001913c3f0929ea5cf0a7cabc0dc196/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/1992523/2a000001913c3f0924f0aa4337621a34d220/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0015" available="true">
+        <name>iPad Air 6 256 ГБ Wi-Fi</name>
+        <url>http://www.example.com/product/КНМ1612_0015</url>
+        <price>700</price>
+        <model>iPad</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4365206/img_id2885611362320562670.png/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12216141/2a0000018fc650d712da0c25d71261c2f586/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0016" available="true">
+        <name>iPad Air 6 128 ГБ 5G</name>
+        <url>http://www.example.com/product/КНМ1612_0016</url>
+        <price>700</price>
+        <model>iPad</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12511153/img_id1631658056354069908.png/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/11408361/2a0000018fd0e422284b3fa73cfc3a4449c7/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0017" available="true">
+        <name>iPad Air 6 256 ГБ 5G</name>
+        <url>http://www.example.com/product/КНМ1612_0017</url>
+        <price>860</price>
+        <model>iPad</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12535611/2a0000018fbac73a6e630c075fa12eb021b2/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12591611/2a0000018fbac73a71edb917abd636b86299/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0018" available="true">
+        <name>iPad Pro 11 M4 Wi-Fi 256 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0018</url>
+        <price>990</price>
+        <model>iPad</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/11417817/2a0000018fe46784f6a3dbf8f49be55f1664/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4544006/2a0000018fe46784f8ccd5f8bd2d2ac5008e/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0019" available="true">
+        <name>iPad Pro 13 M4 Wi-Fi 256 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0019</url>
+        <price>1160</price>
+        <model>iPad</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4950407/img_id3497624611592426469.jpeg/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12529549/img_id4644570430840834997.jpeg/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0020" available="true">
+        <name>iPad Pro 13 M4 5G 256 ГБ</name>
+        <url>http://www.example.com/product/КНМ1612_0020</url>
+        <price>1240</price>
+        <model>iPad</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4950407/img_id3497624611592426469.jpeg/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12529549/img_id4644570430840834997.jpeg/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0021" available="true">
+        <name>Magic keyboard 11</name>
+        <url>http://www.example.com/product/КНМ1612_0021</url>
+        <price>295</price>
+        <model>Клавиатура </model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12411215/2a00000190caf606ff5cddb4f8017276e2a7/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12585941/2a000001900a178dfe85f7dbd52bd0dad673/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="КНМ1612_0022" available="true">
+        <name>Magic keyboard 13</name>
+        <url>http://www.example.com/product/КНМ1612_0022</url>
+        <price>355</price>
+        <model>Клавиатура </model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/5163466/img_id4134489495821915174.jpeg/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/5236090/img_id399259227066369414.png/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0001" available="true">
+        <name>Garmin Fenix 8 43 AMOLED Sapphire</name>
+        <url>http://www.example.com/product/ESW1612_0001</url>
+        <price>1020</price>
+        <model>AMOLED Sapphire экран, 43 мм</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4343038/2a0000019247082c6dfe42e63f0d3cacd553/90x120</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/1886132/2a0000019247082c6525d46def939fa02f32/90x120</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0002" available="true">
+        <name>Garmin Fenix 8 43 AMOLED Sapphire</name>
+        <url>http://www.example.com/product/ESW1612_0002</url>
+        <price>970</price>
+        <model>AMOLED Sapphire экран, 43 мм</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4884224/2a00000192c790f3c864233a2e60bbe60be9/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/5376959/2a00000192c790f3c739d086bf38aa12c15b/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0003" available="true">
+        <name>Garmin Fenix 8 47 AMOLED Sapphire</name>
+        <url>http://www.example.com/product/ESW1612_0003</url>
+        <price>1020</price>
+        <model>AMOLED Sapphire экран, 47 мм</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/5326769/2a00000193007491cbe46166e3211d320f3b/90x120</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4907979/2a00000193007491ccec13f359fbe528c9ab/90x120</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0004" available="true">
+        <name>Garmin Fenix 8 47 AMOLED Sapphire</name>
+        <url>http://www.example.com/product/ESW1612_0004</url>
+        <price>1290</price>
+        <model>AMOLED Sapphire экран, 47 мм</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12485547/2a00000192368aa95a9cf63ee9065faa5c62/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12529549/2a00000192368aa95a5033a26071f89455ba/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0005" available="true">
+        <name>Garmin Fenix 8 51 AMOLED Sapphire</name>
+        <url>http://www.example.com/product/ESW1612_0005</url>
+        <price>1100</price>
+        <model>AMOLED Sapphire экран, 51 мм</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/5323566/2a0000019266e39777dd99571d4dd73acfaa/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/7754338/2a0000019266e3977e18dbedabf5fccbb233/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0006" available="true">
+        <name>Garmin Fenix 7 Pro 47mm Sapphire</name>
+        <url>http://www.example.com/product/ESW1612_0006</url>
+        <price>750</price>
+        <model>Sapphire экран, 47 мм</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12485547/2a00000192368aa95a9cf63ee9065faa5c62/90x120</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12529549/2a00000192368aa95a5033a26071f89455ba/90x120</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0007" available="true">
+        <name>Garmin Epix Pro 42mm Sapphire</name>
+        <url>http://www.example.com/product/ESW1612_0007</url>
+        <price>800</price>
+        <model>Sapphire экран, 42 мм</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4561793/2a000001926b76670df040c80f776ca42aac/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/6062993/2a000001926b76670b6b8209fe49bea0b1de/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0008" available="true">
+        <name>Garmin Epix Pro 47mm Sapphire</name>
+        <url>http://www.example.com/product/ESW1612_0008</url>
+        <price>840</price>
+        <model>Sapphire экран, 47 мм</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4012371/2a0000019225b45e9f1951b573b16e948bf1/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/1888674/2a0000019225b45e9f9875764cd308d79a63/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0009" available="true">
+        <name>Garmin Epix Pro 51mm Sapphire</name>
+        <url>http://www.example.com/product/ESW1612_0009</url>
+        <price>940</price>
+        <model>Sapphire экран, 51 мм</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/7979270/img_id8587390976188363349.jpeg/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4012481/2a0000018bfc2c7aa01f7c6ed60e4a71845a/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0010" available="true">
+        <name>Garmin Venu 3s AMOLED Gold</name>
+        <url>http://www.example.com/product/ESW1612_0010</url>
+        <price>450</price>
+        <model>AMOLED экран, 3s</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/10637301/2a0000018b146f7cb6f0a0b09f2adf0564b5/90x120</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12461896/2a0000018fba7b67e111177af4e5f28e5768/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0011" available="true">
+        <name>Garmin Forerunner 265</name>
+        <url>http://www.example.com/product/ESW1612_0011</url>
+        <price>440</price>
+        <model>Спортивные часы, модель 265</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4322107/img_id3289427603171095245.jpeg/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/1926093/2a000001926b570210016e5d7c25972aa6f1/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0012" available="true">
+        <name>Garmin Forerunner 965</name>
+        <url>http://www.example.com/product/ESW1612_0012</url>
+        <price>590</price>
+        <model>Спортивные часы, модель 965</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/10077879/2a0000018ae2d1424dd917cb5fa4cdbe45c3/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/986077/2a0000018b6cfc36be3f153decd00579733b/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0013" available="true">
+        <name>Garmin MARQ Gen 2 Commander</name>
+        <url>http://www.example.com/product/ESW1612_0013</url>
+        <price>2650</price>
+        <model>Военная версия, стиль Commander</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/6966796/2a00000192c7ac6f912b51c8d2765bbbe194/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4399709/2a00000192c7ac6f8fde84c5ee902a2e29f4/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0014" available="true">
+        <name>Garmin MARQ Gen 2 Aviator</name>
+        <url>http://www.example.com/product/ESW1612_0014</url>
+        <price>1990</price>
+        <model>Пилотная версия, стиль Aviator</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12301852/2a0000018de645c91e05a8c846d2f5ba30ec/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12409214/2a000001927711137773066ad9bf45975e1f/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0015" available="true">
+        <name>Garmin MARQ Gen 2 Captain</name>
+        <url>http://www.example.com/product/ESW1612_0015</url>
+        <price>1900</price>
+        <model>Морская версия, стиль Captain</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/11397617/2a0000018de6614c7d1cc932794f9323db43/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/1101307/img_id6000905322455305588.jpeg/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0016" available="true">
+        <name>Garmin MARQ Gen 2 Golfer</name>
+        <url>http://www.example.com/product/ESW1612_0016</url>
+        <price>1900</price>
+        <model>Спортивная версия, стиль Golfer</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/3741589/2a00000191a8f8646f3cdd500189c7cc8035/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/11442293/2a0000018d241d62adc07484d6d7cb72a5b2/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="ESW1612_0017" available="true">
+        <name>Garmin MARQ Gen 2 Athlete</name>
+        <url>http://www.example.com/product/ESW1612_0017</url>
+        <price>1450</price>
+        <model>Атлетическая версия, стиль Athlete</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4415357/img_id2371472505562157233.jpeg/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/3694390/img_id1659811061542348738.jpeg/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="KZ1612_0001" available="true">
+        <name>Dyson Airwrap HS05</name>
+        <url>http://www.example.com/product/KZ1612_0001</url>
+        <price>500</price>
+        <model>Стайлер, различные цвета</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4464754/2a000001917fe4790f917a764995f40f31f5/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12636049/2a000001917fe47910120c47e709f8951f5d/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="KZ1612_0002" available="true">
+        <name>Dyson Airwrap HS08 Bluetooth</name>
+        <url>http://www.example.com/product/KZ1612_0002</url>
+        <price>520</price>
+        <model>Стайлер с Bluetooth</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4114383/2a0000019328b9d31013026bbc74258955ae/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4484220/2a0000019328b9d3045c9f69f78a61604cf4/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="KZ1612_0003" available="true">
+        <name>Dyson Airstrait HT01</name>
+        <url>http://www.example.com/product/KZ1612_0003</url>
+        <price>440</price>
+        <model>Утюг + фен, комбинированный прибор</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/4725655/img_id2010329059880187586.png/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/1565610/img_id5357098957538098391.png/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="KZ1612_0004" available="true">
+        <name>Dyson V15 Absolute</name>
+        <url>http://www.example.com/product/KZ1612_0004</url>
+        <price>570</price>
+        <model>Пылесос, версия Absolute</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/7978910/2a0000019213cbe23b6f45492cfc6ecb494f/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/5234870/2a0000019213cbe23a626052d96babe66f67/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="KZ1612_0005" available="true">
+        <name>Dyson V15 Submarine Absolute</name>
+        <url>http://www.example.com/product/KZ1612_0005</url>
+        <price>710</price>
+        <model>Пылесос с подводной технологией</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12569700/2a0000018d3716ddc18eaba7aa361142af51/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12368623/2a0000018d3716ddc29c0283b3fd15cee8e7/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+      <offer id="KZ1612_0006" available="true">
+        <name>Dyson PH04</name>
+        <url>http://www.example.com/product/KZ1612_0006</url>
+        <price>780</price>
+        <model>Очиститель + увлажнитель воздуха</model>
+        <currencyId>USD</currencyId>
+        <categoryId>nan</categoryId>
+        <picture>https://avatars.mds.yandex.net/get-mpic/12438903/2a000001901721d8934a2830667c45580e6f/180x240</picture>
+        <picture>https://avatars.mds.yandex.net/get-mpic/5236045/img_id3043037613980415585.jpeg/180x240</picture>
+        <param name="Тип">nan</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
