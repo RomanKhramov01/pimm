@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="0193d930-5674-71f3-90ce-cc4b35d1e0ec" parentId="0193d931-acd4-7208-9c5d-b0c39e92f1b6">
+        <name>Laptops</name>
+      </category>
+    </categories>
+    <offers>
+      <offer id="5" available="true">
+        <name>11111Ноутбук Lenovo</name>
+        <url>http://www.example.com/product/5</url>
+        <price>7100</price>
+        <model>IdeaPad</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>0193d930-5674-71f3-90ce-cc4b35d1e0ec</categoryId>
+        <categoryId>0193d931-acd4-7208-9c5d-b0c39e92f1b6</categoryId>
+        <picture>https://static.cdek.shopping/images/shopping/f778a22c2bf44b68952dc147d3bdfeda.jpg</picture>
+        <picture>img4.jpg</picture>
+        <param name="param2">Windows</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
