@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2024-05-31">
+  <shop>
+    <name>test_name</name>
+    <company>test_company</company>
+    <currencies>
+      <currency id="KGS" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="0193d400-c137-7106-be1c-1b542239691a">
+        <name>Smartphones</name>
+      </category>
+      <category id="0193d403-9247-73f4-ae02-683gggg2d5dc910c" parentId="0193d403-9247-73f4-ae02-6832d5dc910c">
+        <name>Laptops</name>
+      </category>
+      <category id="0193d45d-6a21-7255-bb06-abf508536fb2" parentId="0193d403-9247-73f4-ae02-6832d5dc910c">
+        <name>Electronics</name>
+      </category>
+    </categories>
+    <offers>
+      <offer id="1" available="true">
+        <name>Смартфон Samsung</name>
+        <url>http://www.example.com/product/1</url>
+        <price>200</price>
+        <model>Galaxy A</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>0193d400-c137-7106-be1c-1b542239691a</categoryId>
+        <parentId>nan</parentId>
+        <picture>img1.jpg</picture>
+        <picture>img2.jpg</picture>
+        <param name="param2">Android</param>
+      </offer>
+      <offer id="2" available="true">
+        <name>Ноутбук Lenovo</name>
+        <url>http://www.example.com/product/2</url>
+        <price>700</price>
+        <model>IdeaPad</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>0193d403-9247-73f4-ae02-683gggg2d5dc910c</categoryId>
+        <parentId>0193d403-9247-73f4-ae02-6832d5dc910c</parentId>
+        <picture>img3.jpg</picture>
+        <picture>img4.jpg</picture>
+        <param name="param2">Windows</param>
+      </offer>
+      <offer id="3" available="true">
+        <name>Телевизор LG</name>
+        <url>http://www.example.com/product/3</url>
+        <price>500</price>
+        <model>Smart TV</model>
+        <currencyId>KGS</currencyId>
+        <categoryId>0193d45d-6a21-7255-bb06-abf508536fb2</categoryId>
+        <parentId>0193d403-9247-73f4-ae02-6832d5dc910c</parentId>
+        <picture>img5.jpg</picture>
+        <picture>nan</picture>
+        <param name="param2">4K</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
